@@ -3,3 +3,6 @@ git restore
 other developer
 
 git fetch
+
+
+git pull = git fetch+git merge
