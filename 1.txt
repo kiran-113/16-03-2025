@@ -1,3 +1,5 @@
 git restore
 
 other developer
+
+git fetch
